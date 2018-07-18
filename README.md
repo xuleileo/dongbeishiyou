@@ -1,6 +1,6 @@
 # 个税计算器
 
-> 使用mpvue框架，计算个税的小程序
+> 使用mpvue框架，东北石油大学小程序
 
 ![效果展示](https://github.com/xuleileo/mpvue-calc/blob/master/static/assets/dongbeishiyou.jpg)
 
@@ -23,4 +23,8 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# dongbeishiyou
+
+# 其他作品
+
+![效果展示](https://github.com/xuleileo/mpvue-calc/blob/master/static/assets/qrcode_calc.jpg)
+![效果展示](https://github.com/xuleileo/mpvue-calc/blob/master/static/assets/xihongshishoufu.jpg)
